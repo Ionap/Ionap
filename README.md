@@ -1,12 +1,20 @@
-- 👋 Hi, I’m @Ionap
-- 👀 I’m interested in Data Marshall
-- 🌱 I’m currently learning PostGreSQL, 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hi, I'm @Ionap  
 
-<!---
-Ionap/Ionap is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🚀 About Me  
+- 🔍 **Interest:** Data Marshall  
+- 📚 **Currently Learning:** PostgreSQL, Data Engineering, Data Analyst, Power BI, EXCEL
+- 💼 **Looking to Collaborate On:** Open-source data projects  
+- 📬 **How to Reach Me:** [ionapduarten@gmail.com](mailto:ionapduarten@gmail.com)  
+- ⚡ **Fun Fact:** I love working with large datasets and optimizing queries for performance  
+
+## 📊 GitHub Stats  
+
+![Ionap's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ionap&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ionap&layout=compact&theme=radical)  
+
+## 📈 Contribution Graph  
+![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Ionap&theme=github)  
+
+---
+
+💡 *Feel free to connect and collaborate!*  
