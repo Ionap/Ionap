@@ -1,8 +1,8 @@
 # 👋 Hi, I'm @Ionap  
 
 ## 🚀 About Me  
-- 🔍 **Interest:** Data Marshall  
-- 📚 **Currently Learning:** PostgreSQL, Data Engineering , Data Analyst
+- 🔍 **Interest:** Data Marshall , Database, Data Analysis
+- 📚 **Currently Learning:** PostgreSQL, Data Engineering , 
 - 💼 **Looking to Collaborate On:** Open-source data projects  
 - 📬 **How to Reach Me:** [ionapduarten@gmail.com](mailto:ionapduarten@gmail.com)  
 - ⚡ **Fun Fact:** I love working with large datasets and optimizing queries for performance  
