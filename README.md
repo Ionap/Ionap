@@ -1,11 +1,11 @@
-# 👋 Hi, I'm @Ionap, Soy un **Ingeniero de Sistemas** con experiencia en análisis de datos, soporte técnico y atención al cliente. Me apasiona transformar datos en información valiosa y optimizar procesos mediante herramientas tecnológicas. Actualmente, estoy profundizando en bases de datos relacionales como PostgreSQL y MySQL.  
+# I'm @Ionap, Soy un Ingeniero de Sistemas, con experiencia en análisis de datos, soporte técnico y atención al cliente. Me apasiona transformar datos en información valiosa y optimizar procesos mediante herramientas tecnológicas. Actualmente, estoy profundizando en bases de datos relacionales como PostgreSQL y MySQL.  
 
-## 🚀 About Me  
-- 🔍 **Interest:** Data Marshall , Database, Data Analysis
-- 📚 **Currently Learning:** PostgreSQL, Data Engineering , 
-- 💼 **Looking to Collaborate On:** Open-source data projects  
-- 📬 **How to Reach Me:** [ionapduarten@gmail.com](mailto:ionapduarten@gmail.com)  
-- ⚡ **Fun Fact:** I love working with large datasets and optimizing queries for performance  
+## 🚀 Habilidades Técnicas  
+- 📊 **Análisis de Datos**: Excel (Macros, Query, VBA), Power BI, Access.
+- 🐍 **Programación**: Python (Pandas, NumPy, Matplotlib).
+- 🗄 **Bases de Datos**: PostgreSQL, MySQL (en formación).
+- 🔍 **Consultas SQL**: Creación de reportes y automatización de procesos.
+- 📬 **Correo Electronico:** [ionapduarten@gmail.com](mailto:ionapduarten@gmail.com)  
 
 ## 🛠 Tech Stack  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
