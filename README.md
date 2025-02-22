@@ -1,4 +1,4 @@
-# 👋 Hi, I'm @Ionap  
+# 👋 Hi, I'm @Ionap, Soy un **Ingeniero de Sistemas** con experiencia en análisis de datos, soporte técnico y atención al cliente. Me apasiona transformar datos en información valiosa y optimizar procesos mediante herramientas tecnológicas. Actualmente, estoy profundizando en bases de datos relacionales como PostgreSQL y MySQL.  
 
 ## 🚀 About Me  
 - 🔍 **Interest:** Data Marshall , Database, Data Analysis
