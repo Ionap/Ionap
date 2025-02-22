@@ -1,4 +1,4 @@
-# I'm @Ionap, Soy un Ingeniero de Sistemas, con experiencia en análisis de datos, soporte técnico y atención al cliente. Me apasiona transformar datos en información valiosa y optimizar procesos mediante herramientas tecnológicas. Actualmente, estoy profundizando en bases de datos relacionales como PostgreSQL y MySQL.  
+# @Ionap, Soy un Ingeniero de Sistemas, con experiencia en análisis de datos, soporte técnico y atención al cliente. Me apasiona transformar datos en información valiosa y optimizar procesos mediante herramientas tecnológicas. Actualmente, estoy profundizando en bases de datos relacionales como PostgreSQL y MySQL.  
 
 ## 🚀 Habilidades Técnicas  
 - 📊 **Análisis de Datos**: Excel (Macros, Query, VBA), Power BI, Access.
